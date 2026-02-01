@@ -1,2 +1,2 @@
-# Ka-ek_-ukasz_K-osek_Maksymilian
+# Kalek_Lukasz_Klosek_Maksymilian
 Projekt zaliczeniowy Systemy Mikroprocesorowe
