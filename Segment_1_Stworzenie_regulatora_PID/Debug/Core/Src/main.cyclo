@@ -1,0 +1,10 @@
+../Core/Src/main.c:87:5:_write	1
+../Core/Src/main.c:94:6:BH1750_Init	1
+../Core/Src/main.c:102:7:BH1750_ReadLux	2
+../Core/Src/main.c:111:6:LED_PWM_Write	6
+../Core/Src/main.c:119:7:PI_Compute	5
+../Core/Src/main.c:138:6:HAL_UART_RxCpltCallback	4
+../Core/Src/main.c:157:5:main	9
+../Core/Src/main.c:249:6:SystemClock_Config	4
+../Core/Src/main.c:290:6:MX_I2C2_Init	2
+../Core/Src/main.c:306:6:Error_Handler	1
